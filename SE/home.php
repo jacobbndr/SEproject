@@ -29,7 +29,7 @@
   		
   		
   		<div class="jumbotron">
-			  <h1>Welcome to the "Insret  company name here "</h1>
+			  <h1>Welcome to the "Insert  company name here  "</h1>
 			  
 						  
 					  <p>Here at "insert name here", we help you find th car of your dreams</p>
